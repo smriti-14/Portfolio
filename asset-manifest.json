@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.de770f5e.css",
+    "main.js": "/Portfolio/static/js/main.4fee190f.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/ruralrise.png": "/Portfolio/static/media/ruralrise.e3903cf4e6d4530e32cd.png",
+    "static/media/about.png": "/Portfolio/static/media/about.cfa730b42d8202c677d7.png",
+    "static/media/home1st.png": "/Portfolio/static/media/home1st.1af352b160c2ef8e5ac7.png",
+    "static/media/home2nd.png": "/Portfolio/static/media/home2nd.866c327021da8d0b07e7.png",
+    "static/media/Smriti_Resume.pdf": "/Portfolio/static/media/Smriti_Resume.8047cdd8cadd3a15c25a.pdf",
+    "static/media/icon.jpg": "/Portfolio/static/media/icon.cd57849a37bdd0d63dd1.jpg",
+    "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.de770f5e.css.map": "/Portfolio/static/css/main.de770f5e.css.map",
+    "main.4fee190f.js.map": "/Portfolio/static/js/main.4fee190f.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de770f5e.css",
+    "static/js/main.4fee190f.js"
+  ]
+}
