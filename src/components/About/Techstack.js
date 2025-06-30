@@ -1,6 +1,7 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
 import { CgCPlusPlus } from "react-icons/cg";
+import { FaTrello } from "react-icons/fa";
 import {
   DiJavascript1,
   DiReact,
@@ -79,6 +80,16 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <SiCss3 />
       </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <FaTrello />
+      </Col>
+      {/* <Col xs={4} md={2} className="tech-icons">
+        <img
+          src={require("../../Assets/springverify.webp")}
+          alt="SpringVerify"
+          style={{ width: "60%", height: "auto", objectFit: "contain" }}
+        />
+      </Col> */}
     </Row>
   );
 }

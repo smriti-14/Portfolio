@@ -14,17 +14,17 @@ function AboutCard() {
             I am a final-year B.Tech student at Bennett University, specializing in full-stack development, with experience in building dynamic web applications.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Apart from development, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Explore new technologies and frameworks
+              <ImPointRight /> Code testing – I enjoy structured testing and debugging.
             </li>
             <li className="about-activity">
-              <ImPointRight /> Learn animation
+              <ImPointRight /> Explore new technologies and frameworks.
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Animation - how cool is that!
             </li>
           </ul>
 
